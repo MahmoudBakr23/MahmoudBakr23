@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there, I'm Bakr - [Portfolio]
 
 ## I'm a 22 yo Software Engineer!
-- I value relationships and always looking for meeting amazing people!
+- I value relationships and always looking for meeting new people!
 - I'm currently learning JavaScript and React as a [Microverse] student.
 - I'm looking for job opportunities as a full-stack developer.
 - 2021 Goals: Learning new technologies!
