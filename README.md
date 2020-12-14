@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/ruby.png" />
-<img align="left" alt="RubyOnRails" width="26px" height="26px" src="https://camo.githubusercontent.com/efacf72987462af86e527719de4ab041075a66b85396db11dd95f0415507b9be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f333834302f312a3668316b636b32516d476143383945524e5f573355412e6a706567" />
+<img align="left" alt="RubyOnRails" width="26px" height="26px" src="https://commons.wikimedia.org/wiki/File:Ruby_on_Rails_logo.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://camo.githubusercontent.com/d30c0e413e691c5f76495c454eab69139956c42eaa577804e3f1ffc048f4ecf7/68747470733a2f2f626c6f672e786f6a6f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031372f30362f706f737467726573716c2d636172642e706e67" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
