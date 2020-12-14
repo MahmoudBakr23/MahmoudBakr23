@@ -35,6 +35,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
+
 [Portfolio]: https://fast-wave-79751.herokuapp.com/
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
 [Twitter]: https://twitter.com/bkshjs
