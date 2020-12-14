@@ -8,7 +8,7 @@
 - Dream: Make a huge contribution in programming field.
 - A fact about me: I'm a Gamer and Anime lover (Otaku).
 
-[_My Resume_](https://docs.google.com/document/d/19LbxJDb6F32rWFekkyoJrx1M4p6L2HPHvTxbWzI-2zQ/edit?usp=sharing)
+[**_My Resume_**](https://docs.google.com/document/d/19LbxJDb6F32rWFekkyoJrx1M4p6L2HPHvTxbWzI-2zQ/edit?usp=sharing)
 
 ### Connect with me:
 
