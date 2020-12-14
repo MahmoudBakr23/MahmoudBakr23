@@ -17,7 +17,6 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoud.bakr.1460/)](https://www.facebook.com/mahmoud.bakr.1460/)
 
 <br />
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/ruby.png" />
