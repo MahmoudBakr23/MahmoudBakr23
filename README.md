@@ -12,9 +12,8 @@
 
 ### Connect with me:
 
-![Wercker Build](https://img.shields.io/wercker/build/Mahmoud%20Bakr/Facebook?style=social)[Facebook]
-[<img align="left" alt="Bakr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Bakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[Twitter])]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LinkedIn])]
 
 <br />
 <br />
