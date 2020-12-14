@@ -10,8 +10,9 @@
 
 ### Connect with me:
 
-[<img style="color:blue;" align="left" alt="Bakr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img style="color:blue;" align="left" alt="Bakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Bakr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+[<img align="left" alt="Bakr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="Bakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br />
 
@@ -37,3 +38,4 @@
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
 [Twitter]: https://twitter.com/bkshjs
 [Microverse]: https://www.microverse.org/
+[Facebook]: https://www.facebook.com/mahmoud.bakr.1460/
