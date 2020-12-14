@@ -1,4 +1,4 @@
-### Hello there, I'm Bakr - [Portfolio]
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there, I'm Bakr - [Portfolio]
 
 ## I'm a 22 yo Software Engineer!
 - I value relationships and always looking for meeting amazing people!
@@ -7,6 +7,8 @@
 - 2021 Goals: Learning new technologies!
 - Dream: Make a huge contribution in programming field.
 - A fact about me: I'm a Gamer and Anime lover (Otaku).
+
+[_My Resume_](https://docs.google.com/document/d/19LbxJDb6F32rWFekkyoJrx1M4p6L2HPHvTxbWzI-2zQ/edit?usp=sharing)
 
 ### Connect with me:
 
@@ -30,6 +32,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+---
 
 <br />
 <br />
