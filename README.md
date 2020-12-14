@@ -15,6 +15,7 @@
 [<img align="left" alt="Bakr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
 <br />
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/ruby.png" />
@@ -33,7 +34,7 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
