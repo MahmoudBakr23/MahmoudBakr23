@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> Hello there, I'm Bakr - [Portfolio]
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello there, I'm Bakr - [Portfolio]
 
 ## I'm a 22 yo Software Engineer!
 - I value relationships and always looking for meeting new people!
@@ -19,17 +19,20 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Ruby" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/ruby.png" />
-<img align="left" alt="RubyOnRails" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Ruby_on_Rails_logo.svg" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SCSS" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/sass.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Ruby" width="40px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/ruby.png" />
+<img align="left" alt="RubyOnRails" width="40px" height="40px" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Wepack" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
+<img align="left" alt="JavaScript" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Bootstrap" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="HTML5" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="SCSS" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" />
+<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
 
