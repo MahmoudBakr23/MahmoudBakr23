@@ -19,8 +19,9 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Ruby" width="40px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/ruby.png" />
+<img align="left" alt="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 <img align="left" alt="RubyOnRails" width="40px" height="40px" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" />
+<img align="left" alt="RDBM" width="40px" src="https://cdn1.iconfinder.com/data/icons/data-and-networking-1/64/69-512.png" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Wepack" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" />
