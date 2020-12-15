@@ -14,7 +14,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/m-bakr/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/bkshjs)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/me/stories/public)](https://medium.com/me/stories/public)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://mbakr6821.medium.com/)](https://mbakr6821.medium.com/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoud.bakr.1460/)](https://www.facebook.com/mahmoud.bakr.1460/)
 
 <br />
