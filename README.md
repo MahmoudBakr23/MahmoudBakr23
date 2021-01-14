@@ -16,6 +16,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/bkshjs)](https://twitter.com/bkshjs)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://mbakr6821.medium.com/)](https://mbakr6821.medium.com/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mahmoud.bakr.1460/)](https://www.facebook.com/mahmoud.bakr.1460/)
+[![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bksh-js)](https://gitlab.com/bksh-js)
 
 <br />
 
