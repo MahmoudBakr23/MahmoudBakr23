@@ -21,7 +21,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Ruby" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
+[![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]
 <img align="left" alt="RubyOnRails" width="40px" height="40px" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" />
 <img align="left" alt="RDBM" width="40px" src="https://cdn1.iconfinder.com/data/icons/data-and-networking-1/64/69-512.png" />
 <img align="left" alt="PostgreSQL" width="40px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
