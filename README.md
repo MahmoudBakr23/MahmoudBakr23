@@ -5,7 +5,7 @@
 - I'm currently learning JavaScript and React as a **[Microverse]** student.
 - I'm looking for job opportunities as a full-stack developer.
 - 2021 Goals: Learning new technologies!
-- Dream: Make a huge contribution in programming field.
+- Dream: Make a huge contribution in the programming field.
 - A fact about me: I'm a Gamer and Anime lover (Otaku).
 
 [**_My Resume_**](https://docs.google.com/document/d/19LbxJDb6F32rWFekkyoJrx1M4p6L2HPHvTxbWzI-2zQ/edit?usp=sharing)
