@@ -1,6 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello there, I'm Bakr - [Portfolio]
 
 ## I'm a 22 yo Software Engineer!
+### PT Code reviewer at **[Microverse]**
 - I value relationships and always looking for meeting new people!
 - I'm currently learning JavaScript and React as a **[Microverse]** student.
 - I'm looking for job opportunities as a full-stack developer.
