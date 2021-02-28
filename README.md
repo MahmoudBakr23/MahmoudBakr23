@@ -46,8 +46,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudBakr23&show-icons=true&theme=cobalt&layout=compact)" width="100%">
-
 <br />
 <br />
 
