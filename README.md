@@ -46,15 +46,18 @@
 
 ---
 
-<br />
-<br />
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudBakr23&show-icons=true&theme=cobalt&layout=compact)" width="100%">
 
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/?username=MahmoudBakr23&include_all_commits=true&show_icons=true&theme=gruvbox" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=merko&layout=compact" width="50%">
+</div>
+
+<br />
+<br />
 
 [Portfolio]: https://fast-wave-79751.herokuapp.com/
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
