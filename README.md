@@ -49,17 +49,12 @@
 <br />
 <br />
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudBakr23&repo=github-readme-stats&count_private=true&show_icons=true&theme=calm&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudBakr23" />
-</a>
-</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
 
 [Portfolio]: https://fast-wave-79751.herokuapp.com/
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
