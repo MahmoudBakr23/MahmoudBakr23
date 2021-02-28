@@ -51,7 +51,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=merko&layout=compact" width="45%">
 </div>
 
