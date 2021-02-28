@@ -50,9 +50,12 @@
 <br />
 
 <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=merko&layout=compact" width="45%">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudBakr23&repo=github-readme-stats&count_private=true&show_icons=true&theme=calm&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudBakr23" />
+</a>
 </div>
 
 <br />
