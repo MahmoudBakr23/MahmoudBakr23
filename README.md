@@ -2,14 +2,13 @@
 
 > [Portfolio]
 
-## A 22 yo Software Engineer!
-- PT Code reviewer at **[Microverse]**
+## A 23 years old full-stack software engineer!
+- Senior Code reviewer/Training Leader at **[Microverse]**
 - I value relationships and always looking for meeting new people!
-- I'm currently learning JavaScript and React as a **[Microverse]** student.
 - I'm looking for job opportunities as a full-stack developer.
-- 2021 Goals: Learning new technologies!
+- 2022 Goals: Learning new technologies!
 - Dream: Make a huge contribution in the programming field.
-- A fact about me: I'm a Gamer and Anime lover (Otaku).
+- A fact about me: I like playing video games.
 
 [**_My Resume_**](https://docs.google.com/document/d/19LbxJDb6F32rWFekkyoJrx1M4p6L2HPHvTxbWzI-2zQ/edit?usp=sharing)
 
@@ -56,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
 
-[Portfolio]: https://fast-wave-79751.herokuapp.com/
+[Portfolio]: https://stark-river-41873.herokuapp.com/
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
 [Twitter]: https://twitter.com/bkshjs
 [Microverse]: https://www.microverse.org/
