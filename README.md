@@ -2,10 +2,10 @@
 
 > [Portfolio]
 
-## A 23 years old full-stack software engineer!
+## A 23 years old full-stack developer!
 - Senior Code reviewer/Training Leader at **[Microverse]**
+- Actively searching for a new job as a full-stack developer.
 - I value relationships and always looking for meeting new people!
-- I'm looking for job opportunities as a full-stack developer.
 - 2022 Goals: Learning new technologies!
 - Dream: Make a huge contribution in the programming field.
 - A fact about me: I like playing video games.
@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
 
-[Portfolio]: https://stark-river-41873.herokuapp.com/
+[Portfolio]: https://mahmoudbakr-work.netlify.app/
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
 [Twitter]: https://twitter.com/bkshjs
 [Microverse]: https://www.microverse.org/
