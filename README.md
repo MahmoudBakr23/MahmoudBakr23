@@ -1,7 +1,7 @@
 # Hello there, It's Mahmoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ## A little about me
-- Senior Backend Developer at **[Tadarab]**
+- Senior RoR Developer at **[Tadarab]**
 - I value relationships and always look for meeting new people!
 - Fun fact: I like watching Anime and playing Video Games.
 
