@@ -33,13 +33,14 @@
 
 <br />
 <br />
-
+<!-- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-<br />
-<br />
+<!-- <br />
+<br /> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&layout=compact&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats) -->
 
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
