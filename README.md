@@ -39,7 +39,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&layout=compact&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats) -->
 
 [LinkedIn]: https://www.linkedin.com/in/m-bakr/
 [Tadarab]: https://www.tadarab.com/
