@@ -90,8 +90,11 @@ DMs, group conversations, real-time messaging, voice/video calls (WebRTC), emoji
 ## GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+  <img src="https://streak-stats.demolab.com?user=MahmoudBakr23&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudBakr23&label=Profile+views&color=0e75b6&style=flat" />
 </p>
 
 ---
