@@ -1,47 +1,99 @@
-# Hello there, It's Mahmoud! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<h1 align="center">Mahmoud Bakr</h1>
+<h3 align="center">Senior Ruby on Rails Backend Engineer</h3>
 
-## A little about me
-- Senior RoR Developer at **[Tadarab]**
-- I value relationships and always look for meeting new people!
-- Fun fact: I like watching Anime and playing Video Games.
-
-[**_My Resume_**](https://docs.google.com/document/d/1MmAdElGxd4l3e7RdMyTWwDe3baDwe9pPYIEpLQzc40Y/edit?usp=sharing)
-
-### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/m-bakr/)](https://www.linkedin.com/in/m-bakr/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://mbakr6821.medium.com/)](https://mbakr6821.medium.com/)
-
-<br />
-
-### Languages and Tools:
-
-![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby On Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![PotgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-bakr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://bakrblog.netlify.app">
+    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@mbakr6821">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1zcR0OUJ5Fn4afdjLiAYvhEKAbPHA8LSF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  <a href="mailto:mbakr6821@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<br />
-<br />
-<!-- 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&sshow_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
--->
+Senior backend engineer with **5+ years** building production-grade Ruby on Rails APIs. Currently at [Tadarab](https://tadarab.com) where I own **payment architecture**, **subscription systems**, and **B2B SaaS infrastructure** for a growing EdTech platform in Kuwait.
 
-<!-- <br />
-<br /> -->
+**What I specialize in:**
+- 💳 Payment gateway integrations — Checkout.com, HyperPay, Deema, PayPal, Tap, Tamara, Apple Pay/IAP; reduced billing failures by **80%**
+- 📦 Subscription, wallet & referral engines — **25% upsell boost, 50% improvement in subscriber retention**
+- 🏗️ Multi-tenant B2B SaaS with org-scoped access control & automated AWS Amplify provisioning
+- ⚡ Real-time systems — Action Cable, Redis pub/sub fan-out, WebRTC signaling
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&layout=compact&theme=radical) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&show_icons=true&theme=radical&layout=compact)](https://github.com/MahmoudBakr23/github-readme-stats) -->
+Former **Senior Technical Mentor at Microverse** — reviewed code and mentored **100+ developers** worldwide across Ruby on Rails and JavaScript.
 
-[LinkedIn]: https://www.linkedin.com/in/m-bakr/
-[Tadarab]: https://www.tadarab.com/
+---
+
+## Featured Project — Chatterly
+
+> Real-time messaging and calling — Rails 8 API + Next.js 16 frontend
+
+DMs, group conversations, real-time messaging, voice/video calls (WebRTC), emoji reactions, online presence, and message edits/deletes — all in real time.
+
+| Layer | Stack |
+|---|---|
+| API | Rails 8.1 (API mode), Pundit, Blueprinter, Devise + JWT (Redis denylist) |
+| Real-time | Action Cable + Redis pub/sub — 4 channels: messages, presence, calls, user stream |
+| Database | PostgreSQL 17 with native time-based partitioning on the messages table |
+| Background | Sidekiq 7 — missed call jobs, async tasks |
+| Frontend | Next.js 16, TypeScript, Zustand, TailwindCSS 4, WebRTC (P2P media) |
+| Deployment | Kamal (Docker-based) |
+
+[**Backend →**](https://github.com/MahmoudBakr23/Chatterly) · [**Frontend →**](https://github.com/MahmoudBakr23/chatterly-client)
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Sidekiq](https://img.shields.io/badge/Sidekiq-B1003E?style=flat-square&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+**Frontend (supporting)**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+## Writing
+
+- [**The Complete Software Architecture Walkthrough**](https://bakrblog.netlify.app) — Production-grade architecture: bounded services, state machines, real-time patterns
+- [**When the Cloud Burns: Why RTO and RPO Aren't Just Buzzwords**](https://bakrblog.netlify.app) — Disaster recovery strategy in practice
+- [**Boosting API Performance with Caching in Rails**](https://bakrblog.netlify.app) — Rails caching strategies for production APIs
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MahmoudBakr23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudBakr23&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+</p>
+
+---
+
+<p align="center"><i>Building things that process real money, serve real users, and stay up.</i></p>
