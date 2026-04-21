@@ -25,11 +25,14 @@
 Senior backend engineer with **5+ years** building production-grade Ruby on Rails APIs. Currently at [Tadarab](https://tadarab.com) owning **payment architecture**, **subscription systems**, and **B2B SaaS infrastructure** for a growing EdTech platform in Kuwait.
 
 **What I specialize in:**
+- 🤖 AI-native engineering — agentic coding workflows, LLM tool/MCP orchestration, and multi-agent system design integrated into daily practice to accelerate delivery and reduce cognitive overhead
 - 🏗️ Designing backend systems for scale and long-term maintainability — explicit service layers, state machines, partitioned schemas — built to stay comprehensible as teams and traffic scale
-- ⚡ API performance engineering — query optimization, caching, async job architecture — with systems designed to scale and correctness guarantees that hold under load (**~95% reduction in payment-related support tickets**)
+- ⚡ API performance engineering — query optimization, caching, async job architecture — with systems designed to scale and correctness guarantees that hold under load (**~95% reduction in failed transactions**)
 - 🧠 Architectural decision-making grounded in actual NFRs — strong consistency where money is involved, eventual consistency where fan-out allows it, trade-offs made explicit, not discovered in production
 - 💳 Financial infrastructure correctness — multi-gateway integrations, double-entry ledgers, idempotency guarantees, HMAC-signed webhook delivery — shipped across 7 payment providers in production
 - 📦 Subscription and growth systems — referral programs, upsell flows — **~55% upsell boost and ~40% improvement in subscriber retention** in production
+- 🔧 Automation over manual toil — converting high-frequency repetitive processes into parameterized async services and background pipelines, cutting resolution time by up to **90%** and freeing teams to focus on what can't be automated
+- 🧪 Quality before shipping — comprehensive unit and integration suites, cross-environment validation (staging → production), and agentic testing with tools like Playwright MCP to catch regressions before they reach users
 
 Former **Senior Technical Mentor at Microverse** — reviewed code and mentored **100+ developers** worldwide across Ruby on Rails and JavaScript.
 
