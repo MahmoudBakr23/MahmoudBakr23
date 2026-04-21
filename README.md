@@ -25,10 +25,11 @@
 Senior backend engineer with **5+ years** building production-grade Ruby on Rails APIs. Currently at [Tadarab](https://tadarab.com) owning **payment architecture**, **subscription systems**, and **B2B SaaS infrastructure** for a growing EdTech platform in Kuwait.
 
 **What I specialize in:**
-- 💳 Payment gateway integrations — Checkout.com, HyperPay, Deema, PayPal, Tap, Tamara, Apple Pay/IAP — reduced billing failures by **80%**
-- 📦 Subscription, wallet & referral engines — **25% upsell boost, 50% improvement in subscriber retention**
-- 🏗️ Multi-tenant B2B SaaS with org-scoped access control & automated AWS Amplify provisioning
-- ⚡ Real-time systems — Action Cable, Redis pub/sub fan-out, WebRTC signaling
+- 🏗️ Designing backend systems for scale and long-term maintainability — explicit service layers, state machines, partitioned schemas — built to stay comprehensible as teams and traffic scale
+- ⚡ API performance engineering — query optimization, caching, async job architecture — with systems designed to scale and correctness guarantees that hold under load (**~95% reduction in payment-related support tickets**)
+- 🧠 Architectural decision-making grounded in actual NFRs — strong consistency where money is involved, eventual consistency where fan-out allows it, trade-offs made explicit, not discovered in production
+- 💳 Financial infrastructure correctness — multi-gateway integrations, double-entry ledgers, idempotency guarantees, HMAC-signed webhook delivery — shipped across 7 payment providers in production
+- 📦 Subscription and growth systems — referral programs, upsell flows — **~55% upsell boost and ~40% improvement in subscriber retention** in production
 
 Former **Senior Technical Mentor at Microverse** — reviewed code and mentored **100+ developers** worldwide across Ruby on Rails and JavaScript.
 
